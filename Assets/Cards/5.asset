@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1c1fb7cbd0580748bb6b329d7c1ab73, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  ID: 5
+  Name: "Jazda z klanu Krwawych g\xF3r"
+  ManaCost: 5
+  Artwork: {fileID: 0}
+  Expansion: 0
+  Rarity: 3
+  Owner: {fileID: 0}
+  Effects: []
+  Attack: 7
+  CurrentHealth: 2
+  MaxHealth: 2
+  Subtype: 0200000001000000

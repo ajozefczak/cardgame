@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abb2c2053d724fb4388ea277475a4f06, type: 3}
+  m_Name: Samurai2
+  m_EditorClassIdentifier: 
+  cards:
+  - {fileID: 11400000, guid: edd60cd2057e3914d85aa4e1ca81a753, type: 2}
+  - {fileID: 11400000, guid: edd60cd2057e3914d85aa4e1ca81a753, type: 2}
+  - {fileID: 11400000, guid: 85ffc9bdc77dcbc4d857daafaccdfe1e, type: 2}
+  - {fileID: 11400000, guid: 85ffc9bdc77dcbc4d857daafaccdfe1e, type: 2}
+  - {fileID: 11400000, guid: 263d3eb57c946e7429cb28c2cbe91088, type: 2}
+  - {fileID: 11400000, guid: 263d3eb57c946e7429cb28c2cbe91088, type: 2}
+  - {fileID: 11400000, guid: 2a0edee6f0d63704fa5bccf99f761f81, type: 2}
+  - {fileID: 11400000, guid: 2a0edee6f0d63704fa5bccf99f761f81, type: 2}
+  - {fileID: 11400000, guid: 7b2cf73d1c43f2944a7fe384a27ff985, type: 2}
+  - {fileID: 11400000, guid: 7b2cf73d1c43f2944a7fe384a27ff985, type: 2}
